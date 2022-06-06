@@ -122,7 +122,6 @@ function format($tanggal){
                             </center>
 
                             <br>
-                            <img src="\foto\donorchair.JPG"/>
 
                             <label><b>Nama Barang</b></label>
                             <br>

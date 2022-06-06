@@ -95,8 +95,6 @@ function format($tanggal){
                             <br>
 
                             <label><b>Nama Barang</b></label>
-                            <img id="preview" width="200px"
-                                    src="assets/upload/donorchair"/>
                             <br>
                             <h6 class="h6 text-gray-800" id="judul"><?= $d->nama_barang ?></h6>
                             <!-- Divider -->
